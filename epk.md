@@ -4,6 +4,7 @@ title: Press Kit
 description: "Onda Jazz Band plays Brazilian and latin jazz"
 date: 2014-09-11T00:00
 tags: [Onda, Jazz, Brazil]
+sitemap: false
 ---
 <script type="text/javascript">
   var shows = {% include shows.json %} || [];
