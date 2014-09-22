@@ -13,7 +13,7 @@ sitemap: false
 
 Onda is a four-piece ensemble that creates a distinctive sound playing arrangements of songs which are rarely performed elsewhere.
 
-Formed in April 2014, Onda brought together experienced musicians who share a passion for both Brazilian jazz and musical exploration.
+Formed in April 2014, Onda brings together experienced musicians who share a passion for both Brazilian jazz and musical exploration.
 
 Members include:
 
@@ -24,7 +24,7 @@ Members include:
 
 ## Music
 
-  Here are samples from a few of our standards.
+Here are samples from a few of our standards.
 
 <div id="songPlayer"></div>
 
