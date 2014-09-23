@@ -2,7 +2,6 @@
 
 var moment = require('moment-timezone');
 var React = require('react');
-var markdown = require('markdown').markdown;
 
 var PaginationMixin = require('./pagination_mixin');
 
@@ -12,10 +11,7 @@ var ShowDetail = React.createClass({
 	},
 
 	render: function () {
-		if (this.props.contentHtml) {
-			return <div className='show-detail' dangerouslySetInnerHTML={{__html: this.props.contentHtml}}/>;
-		}
-		return <div className='show-detail'>{this.props.content}</div>;
+		return <div className='show-detail' dangerouslySetInnerHTML={{__html: this.props.content}}/>;
 	}
 });
 
@@ -66,23 +62,9 @@ var Shows = React.createClass({
 		};
 	},
 
-	componentWillMount: function () {
-		var shows = this.props.shows.slice(0);
-		shows.forEach(function (show) {
-			if (show.content) {
-				try {
-					show.contentHtml = markdown.toHTML(show.content);
-				} catch (ignored) {
-					// do nothing
-				}
-			}
-		}.bind(this));
-		this.setState({shows: shows});
-	},
-
 	render: function () {
 		var now = moment().tz(this.props.tz);
-		var shows = this.state.shows.slice(0);
+		var shows = this.props.shows.slice(0);
 		shows.forEach(function (show) {
 			var date = datePattern.exec(show.when)[0].trim();
 			var when = moment(date, 'MMM DD, YYYY', 'en').tz(this.props.tz);
