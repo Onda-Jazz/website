@@ -40,7 +40,7 @@ var Show = React.createClass({
 	},
 
 	render: function () {
-		var hasContent = !!this.props.content;
+		var hasContent = !!String(this.props.content).trim();
 		if (hasContent) {
 			return <li><article><a href={this.props.url} onClick={this.display}>{ShowInfo(this.props, this.state.detail && ShowDetail(this.props))}</a></article></li>;
 		}
