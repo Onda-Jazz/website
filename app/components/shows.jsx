@@ -20,12 +20,6 @@ var ShowInfo = React.createClass({
 		return {};
 	},
 
-	render: function () {
-		return <span>{this.props.title || this.props.venue} <span className='show-date'>{this.props.moment.format('dddd, MMMM D, YYYY')}{this.props.time && (' | ' + this.props.time)}</span>{this.props.children}</span>;
-	}
-});
-
-var Show = React.createClass({
 	getInitialState: function () {
 		return {detail: false};
 	},
@@ -42,10 +36,21 @@ var Show = React.createClass({
 	render: function () {
 		var hasContent = !!String(this.props.content).trim();
 		if (hasContent) {
-			return <li><article><a href={this.props.url} onClick={this.display}>{ShowInfo(this.props, this.state.detail && ShowDetail(this.props))}</a></article></li>;
+			return <div>
+				<a href={this.props.url} onClick={this.display}>
+					<span>{this.props.title || this.props.venue} <span className='show-date'>{this.props.moment.format('dddd, MMMM D, YYYY')}{this.props.time && (' | ' + this.props.time)}</span></span>
+				</a>
+				{this.state.detail && ShowDetail(this.props)}
+			</div>;
 		}
-		return <li><article>{ShowInfo(this.props)}</article></li>;
+		return <span>{this.props.title || this.props.venue} <span className='show-date'>{this.props.moment.format('dddd, MMMM D, YYYY')}{this.props.time && (' | ' + this.props.time)}</span></span>;
 	}
+});
+
+var Show = React.createClass({
+	render: function () {
+		return <li><article>{ShowInfo(this.props)}</article></li>;
+		}
 });
 
 var datePattern = /^[^|]+/;
