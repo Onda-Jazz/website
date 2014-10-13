@@ -28,10 +28,9 @@ Here are samples from a few of our standards.
 
 <div id="songPlayer"></div>
 
-## Calendar
+## Schedule
 
-Onda played regularly at Milltown in Carrboro, NC throughout the summer.
-We look forward to performing at the North Carolina Museum of Art on October 10th.
+Onda played regularly at Milltown in Carrboro, NC throughout the summer, at the 2014 Carrboro Music Festival, and at the North Carolina Museum of Art.
 
 <ul class="post-list shows" id='shows'>
 {% for post in site.shows %}
