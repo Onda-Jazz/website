@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Press Kit
+headline: ""
 description: "Onda Jazz Band plays Brazilian and latin jazz"
 date: 2014-09-11T00:00
 tags: [Onda, Jazz, Brazil]
@@ -11,9 +12,13 @@ sitemap: false
   var songs = {% include songs.json %} || [];
 </script>
 
+<div class='band-photo'>
+  <img src="{{ site.url }}/images/onda_ncma_sm.jpg">
+</div>
+
 Onda is a four-piece ensemble that creates a distinctive sound playing arrangements of songs which are rarely performed elsewhere.
 
-Formed in April 2014, Onda brings together experienced musicians who share a passion for both Brazilian jazz and musical exploration.
+Formed in April 2014, Onda brings together experienced musicians who share passions for Brazilian jazz and musical exploration.
 
 Members include:
 
@@ -30,7 +35,7 @@ Here are samples from a few of our standards.
 
 ## Schedule
 
-Onda played regularly at Milltown in Carrboro, NC throughout the summer, at the 2014 Carrboro Music Festival, and at the North Carolina Museum of Art.
+Onda has performed at the North Carolina Museum of Art in Raleigh, Milltown in Carrboro, and at the Carrboro Music Festival.
 
 <ul class="post-list shows" id='shows'>
 {% for post in site.shows %}
