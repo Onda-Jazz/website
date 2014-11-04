@@ -7,11 +7,6 @@ date: 2014-09-11T00:00
 tags: [Onda, Jazz, Brazil]
 sitemap: false
 ---
-<script type="text/javascript">
-  var shows = {% include shows.json %} || [];
-  var songs = {% include songs.json %} || [];
-</script>
-
 <div class='band-photo'>
   <img src="{{ site.url }}/images/onda_ncma_sm.jpg">
 </div>
@@ -33,22 +28,12 @@ Onda has performed at the North Carolina Museum of Art in Raleigh, Milltown in C
 
 Here are samples from a few of our standards.
 
-<div id="songPlayer"></div>
+{% include songs.md %}
 
 ## Videos
 
-### *O Astronauta* Composed by Baden Powell
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/XIfQdJ_7Vn0" frameborder="0"> </iframe>
-
-### *Cucumber* Composed by Nelson Johns
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/o6ULvCVOx5Y" frameborder="0"> </iframe>
+{% include videos.md %}
 
 ## Schedule
 
-<ul class="post-list shows" id='shows'>
-{% for post in site.shows %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{% if post.title %}{{ post.title }}{% else %}{{ post.venue }}{% endif %} <span class='show-date'>{{ post.when }}{% if post.time %} | {{ post.time}}{% endif %}</span></a></article></li>
-{% endfor %}
-</ul>
+{% include shows.md %}
