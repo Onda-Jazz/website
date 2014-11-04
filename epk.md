@@ -27,15 +27,25 @@ Members include:
 * Ana Mitchell (Corn and the Colonels) on percussion, and
 * [Eric Meyer]({{site.url}}/about/eric/) on upright bass.
 
+Onda has performed at the North Carolina Museum of Art in Raleigh, Milltown in Carrboro, and at the Carrboro Music Festival.
+
 ## Music
 
 Here are samples from a few of our standards.
 
 <div id="songPlayer"></div>
 
-## Schedule
+## Videos
 
-Onda has performed at the North Carolina Museum of Art in Raleigh, Milltown in Carrboro, and at the Carrboro Music Festival.
+### *O Astronauta* Composed by Baden Powell
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/XIfQdJ_7Vn0" frameborder="0"> </iframe>
+
+### *Cucumber* Composed by Nelson Johns
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/o6ULvCVOx5Y" frameborder="0"> </iframe>
+
+## Schedule
 
 <ul class="post-list shows" id='shows'>
 {% for post in site.shows %}
