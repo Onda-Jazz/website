@@ -5,6 +5,10 @@ title: Eric Meyer
 tags: [Onda members, Eric Meyer]
 ---
 
+<div class='band-photo'>
+  <img src='{{ site.url }}/images/eric_headshot.png'/>
+</div>
+
 I have always been moved to create. This led me to immerse myself in numerous endeavors including photography, theater, computer programming, and music. I played guitar in high school but took what ended up being a 20-year hiatus. In 2008, inspired by listening to local musicians, I decided that I wanted to play music again. I studied guitar with [Jon Shain](http://www.jonshain.com/) and [Kevin Van Sant](http://www.kevinvansant.com/), but my journey into bass began almost by accident. I was playing guitar at a blues jam in 2011, and the bass player had to leave early. I said, “I know nothing about playing bass, but I will give it a try.” Playing bass felt very intuitive to me. In 2012, I bought an upright bass and began lessons with [Robbie Link](http://robbielink.com/).
 
 For me playing music is about collaboration - both with other musicians and with an audience. I welcome opportunities for collaboration, and enjoy playing a wide variety of genres of music.
