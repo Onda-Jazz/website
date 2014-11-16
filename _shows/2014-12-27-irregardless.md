@@ -7,7 +7,7 @@ tags: [Shows]
 comments: true
 share: true
 when: December 27, 2014
-time: 9pm-12a
+time: 9pm-12am
 venue: Irregardless Cafe, Raleigh, NC
 ---
 
