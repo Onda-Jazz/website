@@ -6,3 +6,6 @@
   <li><article><a href="{{ site.url }}{{ post.url }}">{% if post.title %}{{ post.title }}{% else %}{{ post.venue }}{% endif %} <span class='show-date'>{{ post.when }}{% if post.time %} | {{ post.time}}{% endif %}</span></a></article></li>
 {% endfor %}
 </ul>
+<p>
+Shows feature the entire Onda ensemble unless noted.
+</p>

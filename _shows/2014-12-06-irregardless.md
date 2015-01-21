@@ -6,14 +6,12 @@ category: shows
 tags: [Shows]
 comments: true
 share: true
-when: January 31, 2015
+when: December 6, 2014
 time: 6pm-8:30pm
 venue: Irregardless Cafe, Raleigh, NC
 ---
 
 Nelson and Eric will perform jazz standards and some Brazilian jazz.
-
-We are especially excited to be playing this show because Peter Lamb's combo, which features Stephen Coffman from Onda, takes the stage right after we finish.
 
 Free.
 
