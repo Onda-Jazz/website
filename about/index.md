@@ -4,6 +4,10 @@ permalink: /about/
 title: About Onda
 tags: [Onda members]
 except: "Onda plays Brazilian jazz. We are available for private parties, corporate events, and weddings."
+image:
+  feature: onda_wide.jpg
+  credit: Frank Myers
+
 ---
 
 Onda is a four-piece ensemble that creates a distinctive sound playing arrangements of songs which are rarely performed elsewhere.

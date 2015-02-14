@@ -8,7 +8,7 @@ tags: [Onda, Jazz, Brazil]
 sitemap: false
 ---
 <div class='band-photo'>
-  <img src="{{ site.url }}/images/onda_ncma_sm.jpg">
+  <img src="{{ site.url }}/images/onda_wide.jpg" alt="Onda. Photo by Frank Myers">
 </div>
 
 Onda is a four-piece ensemble that creates a distinctive sound playing arrangements of songs which are rarely performed elsewhere.
@@ -37,3 +37,27 @@ Here are samples from a few of our standards.
 ## Schedule
 
 {% include shows.md %}
+
+<div class='band-photo'>
+  <img src="{{ site.url }}/images/stephen_four_mallet.jpg">
+</div>
+
+[Stephen Coffman]({{site.url}}/about/stephen/), vibraphone
+
+<div class='band-photo'>
+  <img src="{{ site.url }}/images/nelson_bass_shadow_color.jpg">
+</div>
+
+Nelson Johns, guitar
+
+<div class='band-photo'>
+  <img src="{{ site.url }}/images/ana_cahon_side.jpg">
+</div>
+
+Ana Mitchell, percussion
+
+<div class='band-photo'>
+  <img src="{{ site.url }}/images/eric_stephen.jpg">
+</div>
+
+[Eric Meyer]({{site.url}}/about/eric/), bass
