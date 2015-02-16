@@ -34,9 +34,3 @@ No matter how good a musician I become, I will never be as cool as when I drove 
 <div class='band-photo'>
   <img src='{{ site.url }}/images/eric_thumbpos.jpg'/>
 </div>
-
-<br/>
-
-<div class='band-photo'>
-  <img src='{{ site.url }}/images/eric_headshot.png'/>
-</div>
