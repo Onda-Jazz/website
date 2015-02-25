@@ -22,7 +22,13 @@ Members include:
 * Ana Mitchell (Corn and the Colonels) on percussion, and
 * [Eric Meyer]({{site.url}}/about/eric/) on upright bass.
 
-Onda has performed at the North Carolina Museum of Art in Raleigh, Milltown in Carrboro, and at the Carrboro Music Festival.
+Onda performs regularly at jazz venues throughout the triangle area.
+
+## Reviews
+
+"Their well-rehearsed setlist ... avoided cliches while giving life to standards by Jobim and Horace Silver. Other numbers moved between the soulful and the whimsical."
+
+-- [Good vibes: A vibraphone invasion for local Latin jazz](http://www.indyweek.com/music/archives/2015/02/24/good-vibes-onda-and-juan-alamo-add-new-flavor-to-local-jazz){:target="_blank"}, Sylvia Pfeiffenberger, INDY music blog.
 
 ## Music
 
