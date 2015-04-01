@@ -11,7 +11,7 @@ time: 7pm-10pm
 venue: Chatham Hill Winery, Cary, NC
 ---
 
-Nelson and Eric  perform jazz standards and Brazilian jazz.
+Nelson and Eric perform jazz standards and Brazilian jazz.
 
 Free.
 

@@ -11,7 +11,7 @@ time: 6pm-8:30pm
 venue: Irregardless Cafe, Raleigh, NC
 ---
 
-Nelson and Eric  perform jazz standards and Brazilian jazz.
+Nelson and Eric perform jazz standards and Brazilian jazz.
 
 Free.
 
