@@ -6,7 +6,7 @@ category: shows
 tags: [Shows]
 comments: true
 share: true
-when: November 2, 2014
+when: July 26, 2015
 time: 2-4pm
 venue: Honeysuckle Tea House, Chapel Hill, NC
 ---
