@@ -32,7 +32,7 @@ Onda performs regularly at jazz venues throughout the triangle area.
 
 ## Music
 
-Here are samples from a few of our standards.
+Here are a few of our standards.
 
 {% include songs.md %}
 
