@@ -1,7 +1,7 @@
 ---
 layout: show
-title: Honeysuckle Tea House, Chapel Hill, NC
-description: "Onda plays Honeysuckle Tea House in Chapel Hill, NC"
+title: Johns/Meyer Duo - Honeysuckle Tea House, Chapel Hill, NC
+description: "Johns/Meyer Duo plays Honeysuckle Tea House in Chapel Hill, NC"
 category: shows
 tags: [Shows]
 comments: true
@@ -13,7 +13,7 @@ venue: Honeysuckle Tea House, Chapel Hill, NC
 
 Situated on a beautiful farm just west of Chapel Hill, Honeysuckle Tea House is a unique community-centered venue.
 
-Onda looks forward to returning to the Tea House.
+Nelson and Eric will perform jazz standards and some Brazilian jazz.
 
 The Honeysuckle Tea House rests upon 16 acres which includes the tea house itself, a natural play area for children, shipping containers to aid in cultivating medicinal and edible mushrooms,  2 acres of organically grown medicinal herbs, a small nursery for those who wish to start their own or expand their medicinal herb garden, and almost 8 acres of various fruit and tea plants for the enjoyment and nourishment of the community.
 
