@@ -17,7 +17,8 @@ I play regularly with these projects:
 
 * Onda
 * The Nelson Johns/Eric Meyer duo
-* [Noah Sager](noahsagermusic.com) (duo, trio, combo)
+* [Noah Sager](http://noahsagermusic.com) (duo, trio, combo)
+* [Jo Gore](http://jogore.com)
 * The Cool Jazz 21 trio, which plays every Tuesday night at [Alley 26](http://www.alleytwentysix.com/)
 
 I set big audacious goals for myself and push myself to continually learn and improve my musicianship. My daily routine generally includes two to four hours of practice. These days, I am playing the upright bass a lot, working on sight reading, playing arco, and transcribing songs. While I do have a full-time job, which I very much enjoy, my goal is to play at a professional level, routinely performing throughout the region and doing session work.
